@@ -1,0 +1,41 @@
+#ktm{
+    color: cyan;
+    font-size: 2rem ;
+    border: 0.5rem solid white;
+    border-radius: 2rem;
+    width: 400px;
+    padding-left: 120px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+div{
+    color: red;
+    position: relative;
+    top: 200px;
+    
+}
+#duke input{
+    color: cyan;
+    font-size:larger;
+   
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: black;
+    position: relative;
+    left: 225px;
+}
+body{
+    height: 995px;
+    background: url('hacker.jpg');
+    background size: 100%;
+    
+}
+h1{
+    color: cyan;
+    font-size: 2rem;
+
+}
+marquee{
+    color: white;
+}
